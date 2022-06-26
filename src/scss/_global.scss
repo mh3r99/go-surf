@@ -161,6 +161,13 @@ ul {
 }
 
 .surf,
-.travel {
+.holder {
   padding: 160px 0 120px;
+}
+
+.star-list {
+  li {
+    display: inline-block;
+    margin-left: -25px;
+  }
 }
